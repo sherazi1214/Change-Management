@@ -1,6 +1,6 @@
 # Management
 
-## Configuration Management (کنفیگریشن مینجمنٹ)
+## Configuration Management 
 ###  Definition:
 **English:**
 Configuration Management (CM) is the process of systematically managing and maintaining system settings, software, hardware, and documentation in a consistent state.
@@ -34,7 +34,7 @@ SaltStack	Remote system control and automation
 **Urdu:**
 Yeh tools automatically servers aur applications ko manage karte hain – is se manual errors nahi hotay aur har system same rehta hai.
 
-## Provisioning (پروویژننگ کیا ہے؟)
+## Provisioning 
 #### Definition:
 **English:**
 Provisioning is the process of preparing and equipping a system (server, application, user account) so it's ready to use.
@@ -66,7 +66,7 @@ Urdu: Sab kuch sahi chal raha hai ya nahi, test karna
 #### 6. Handover -------------------------	Deliver to end-user or production
 Urdu: Final system user ko de dena ya production mein bhjna
 
-## Automated Provisioning (خودکار پروویژننگ)
+## Automated Provisioning 
 ###  Definition:
 **English:**
 Automated provisioning uses scripts or software tools to set up systems and users automatically, without manual steps.
@@ -95,7 +95,7 @@ CloudFormation (AWS)	AWS infrastructure provisioning
 
 Azure ARM Templates	Provision Azure resources automatically
 
-## Real-World Example (Mix Urdu + English):
+## Real-World Example
 
 Imagine your company hires 50 new employees:
 
