@@ -107,6 +107,7 @@ Automated provisioning: A script runs → 50 user accounts created, emails set, 
 
 ## Summary Table
 Topic --------------------------	Explanation (Eng + Urdu)
+
 Configuration Management ------------------	Systems ko consistent aur managed rakhna
 
 Provisioning ----------------------------	System ya user ko ready karna
