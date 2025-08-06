@@ -34,7 +34,7 @@ SaltStack	Remote system control and automation
 **Urdu:**
 Yeh tools automatically servers aur applications ko manage karte hain – is se manual errors nahi hotay aur har system same rehta hai.
 
-##. Provisioning (پروویژننگ کیا ہے؟)
+## Provisioning (پروویژننگ کیا ہے؟)
 #### Definition:
 **English:**
 Provisioning is the process of preparing and equipping a system (server, application, user account) so it's ready to use.
@@ -42,28 +42,28 @@ Provisioning is the process of preparing and equipping a system (server, applica
 **Urdu:**
 Provisioning ka matlab hai kisi naye server ya user ke liye necessary settings, access, aur resources ready karna taake wo kaam kar sake.
 
-## Provisioning Process (Provisioning Ka Amal)
+### Provisioning Process (Provisioning Ka Amal)
 Provisioning involves several steps. Here's the complete process:
 
-### Step-by-Step Provisioning Process:
+#### Step-by-Step Provisioning Process:
 Step -------------------------------	Description (English + Urdu)
 
-### 1. Planning ----------------	Decide what system/user needs (hardware, OS, permissions)
+#### 1. Planning ----------------	Decide what system/user needs (hardware, OS, permissions)
 Urdu: Pehle se tay karna ke kis cheez ki zaroorat hai
 
-### 2. Resource Allocation ----------------	Assign CPU, RAM, storage, network
+#### 2. Resource Allocation ----------------	Assign CPU, RAM, storage, network
 Urdu: Resources assign karna – jaise CPU, memory, IP
 
-### 3. Configuration -----------------	Install OS, software, settings
+#### 3. Configuration -----------------	Install OS, software, settings
 Urdu: OS ya application install karna, settings apply karna
 
-### 4. Access Management ----------------	Create user accounts, set permissions
+#### 4. Access Management ----------------	Create user accounts, set permissions
 Urdu: User banake usko permissions dena
 
-### 5. Testing & Validation ----------------------	Check if system is working properly
+#### 5. Testing & Validation ----------------------	Check if system is working properly
 Urdu: Sab kuch sahi chal raha hai ya nahi, test karna
 
-### 6. Handover -------------------------	Deliver to end-user or production
+#### 6. Handover -------------------------	Deliver to end-user or production
 Urdu: Final system user ko de dena ya production mein bhjna
 
 ## Automated Provisioning (خودکار پروویژننگ)
